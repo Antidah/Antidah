@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antidah
-- 👀 I’m interested in web and app and software development and data analysis
+- 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning all of the above interests
 - 💞️ I’m looking to collaborate on all of the above interests
 - 📫 How to reach me antidahangie002@gmail.com
